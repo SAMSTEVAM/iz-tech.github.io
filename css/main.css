@@ -226,7 +226,7 @@ nav ul li a.active, nav ul li a:hover {
 }
 
 .produtos {
-    padding-top: 100px;
+    padding-top: 0px;
     padding-bottom: 150px;
 }
 
@@ -242,6 +242,7 @@ nav ul li a.active, nav ul li a:hover {
 } */
 
 .produtos .container{
+    top: 0;
     text-align: center;
 }
 
